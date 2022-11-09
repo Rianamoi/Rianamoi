@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Riana
-- 👀 I’m interested in surviving this chaos life
+
+- 👋 Howdy, I’m @Riana
+- 👀 I’m interested in surviving the chaos of this life
 - 🌱 I’m currently learning to do so 
 
 
